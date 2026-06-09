@@ -1,5 +1,2 @@
 python leaning 
-# day 1 
-Topics Learned 
-escape sequence , print function and seperate and end parameters
-date 8 junes
+in this repo i will share how i will learn python from basics
