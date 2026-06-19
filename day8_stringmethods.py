@@ -1,4 +1,4 @@
-# string methods on 18 july 2026
+# string methods on 16 july 2026
 # string are immutable in python 
 a = "hello world"
 print(a.upper()) # converts the string into uppercase 
@@ -54,3 +54,4 @@ str1 = "hey I aM hArRy anD I am LeaRninG PYthoN"
 print(str1.swapcase()) # swapcase() is the method from which we can exchange the cases in string in python if the letter is in uppercase it will be converted into lowercase if something is in lowercase it will be converted into uppercase.
 str1 = "Welcome to evonix Network, Hope u have a good day"
 print(str1.title()) # title() method is used to capitalize every first letter of word in a string 
+# this is all i have learned about string methods on day 8 on 16th june 2026
